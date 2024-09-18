@@ -1,0 +1,162 @@
+Built target genids
+Built target _check_vcd
+Checking validity of VCD files
+Built target check_vcd
+Built target generate_T
+Built target config_internals
+Built target T
+Built target UTIL
+Built target CONFIG_LIB
+Built target oai_usrpdevif
+[  0%] Built target genids
+[  1%] Built target asn1_m3ap
+[  1%] Built target ds
+[  1%] Built target gen_lte_rrc_hdrs
+[  2%] Built target gen_nr_rrc_hdrs
+[  2%] Built target bnProc_gen_128
+[  2%] Built target bnProc_gen_avx2
+[  4%] Built target asn1_m2ap
+[  4%] Built target bnProc_gen_avx512
+[  4%] Built target cnProc_gen_avx2
+[  4%] Built target cnProc_gen_128
+[  4%] Built target cnProc_gen_avx512
+[  4%] Built target tracer_utils
+[  4%] Built target tracer_filter
+[  4%] Built target tracer_view
+[  4%] Built target _check_vcd
+[ 12%] Built target asn1_s1ap
+[ 12%] Built target bnProc_gen_avx2_files
+[ 12%] Generating LDPC bnProc header files for 128-bit SIMD
+[ 19%] Built target asn1_x2ap
+[ 26%] Built target asn1_ngap
+[ 26%] Built target bnProc_gen_avx512_files
+[ 26%] Built target cnProc_gen_avx2_files
+[ 26%] Built target bnProc_gen_128_files
+[ 26%] Generating LDPC cnProc header files for 128-bit SIMD
+[ 26%] Built target cnProc_gen_avx512_files
+[ 26%] Built target tracer_logger
+[ 26%] Built target record
+[ 26%] Built target cnProc_gen_128_files
+[ 26%] Built target replay
+[ 26%] Built target extract_config
+[ 26%] Built target extract_input_subframe
+[ 26%] Built target extract
+[ 26%] Built target extract_output_subframe
+[ 26%] Built target macpdu2wireshark
+[ 26%] Built target textlog
+[ 26%] Checking validity of VCD files
+[ 26%] Built target check_vcd
+[ 26%] Built target generate_T
+[ 26%] Built target ITTI
+[ 31%] Built target asn1_e1ap
+[ 31%] Built target config_internals
+[ 31%] Built target HASHTABLE
+[ 31%] Built target SECURITY
+[ 31%] Built target SCHED_LIB
+[ 38%] Built target asn1_lpp
+[ 38%] Built target SCHED_NR_LIB
+[ 38%] Built target NFAPI_COMMON_LIB
+[ 38%] Built target SCHED_RU_LIB
+[ 38%] Built target x2ap
+[ 38%] Built target NFAPI_VNF_LIB
+[ 38%] Built target NFAPI_LIB
+[ 38%] Built target ngap
+[ 38%] Built target ldpc_optim8seg
+[ 38%] Built target ldpc_optim
+[ 38%] Built target ldpc_orig
+[ 38%] Built target ldpc
+[ 38%] Built target dfts
+[ 38%] Built target NFAPI_PNF_LIB
+[ 48%] Built target asn1_f1ap
+[ 48%] Built target PHY_NR_COMMON
+[ 48%] Built target NFAPI_USER_LIB
+[ 49%] Built target SIMU
+[ 49%] Built target PHY_RU
+[ 49%] Built target PHY_NR
+[ 49%] Built target SCTP_CLIENT
+[ 49%] Built target T
+[ 49%] Built target MAC_NR_COMMON
+[ 49%] Built target PHY
+[ 49%] Built target SIMU_ETH
+[ 49%] Built target UTIL
+[ 49%] Built target CONFIG_LIB
+[ 49%] Built target shlib_loader
+[ 49%] Built target nr_rlc_core
+[ 49%] Built target multi
+[ 49%] Built target T_tools
+[ 49%] Built target GTPV1U
+[ 50%] Built target PHY_COMMON
+[ 51%] Built target LIB_NAS_UE
+[ 72%] Built target asn1_nr_rrc
+[ 98%] Built target asn1_lte_rrc
+[ 98%] Built target nr_rrc
+[ 98%] Built target lte_rrc
+[ 98%] Built target m2ap
+[ 98%] Built target s1ap
+[ 98%] Built target m3ap
+[ 98%] Built target f1ap
+[ 98%] Built target e1ap
+[ 98%] Built target nr_rlc
+[ 98%] Built target e1_if
+[ 98%] Built target L2_LTE_NR
+[100%] Built target L2_NR
+[100%] Building C object CMakeFiles/nr-softmodem.dir/executables/nr-softmodem.c.o
+[100%] Linking CXX executable nr-softmodem
+[100%] Built target nr-softmodem
+[  0%] Built target genids
+[  0%] Built target ds
+[  0%] Built target _check_vcd
+[  0%] Checking validity of VCD files
+[  0%] Built target check_vcd
+[  0%] Built target generate_T
+[  0%] Built target HASHTABLE
+[  0%] Built target config_internals
+[  0%] Built target SECURITY
+[  0%] Built target T
+[  1%] Built target SIMU
+[  1%] Built target UTIL
+[  1%] Built target CONFIG_LIB
+[  1%] Built target shlib_loader
+[  3%] Built target gen_nr_rrc_hdrs
+[ 10%] Built target asn1_e1ap
+[ 20%] Built target asn1_ngap
+[ 20%] Built target gen_lte_rrc_hdrs
+[ 20%] Built target ITTI
+[ 20%] Built target SCTP_CLIENT
+[ 20%] Built target SIMU_ETH
+[ 20%] Built target GTPV1U
+[ 20%] Built target ngap
+[ 33%] Built target asn1_f1ap
+[ 61%] Built target asn1_nr_rrc
+[ 98%] Built target asn1_lte_rrc
+[ 98%] Built target nr_rrc
+[ 98%] Built target f1ap
+[ 98%] Built target e1ap
+[ 98%] Built target e1_if
+[100%] Built target nr-cuup
+Built target genids
+Built target _check_vcd
+Checking validity of VCD files
+Built target check_vcd
+Built target generate_T
+Built target config_internals
+Built target params_libconfig
+Built target genids
+Built target _check_vcd
+Checking validity of VCD files
+Built target check_vcd
+Built target generate_T
+Built target coding
+[  0%] Built target genids
+[  0%] Built target _check_vcd
+[  0%] Checking validity of VCD files
+[  0%] Built target check_vcd
+[  0%] Built target generate_T
+[100%] Built target SIMU
+[100%] Built target rfsimulator
+Built target genids
+Built target _check_vcd
+Checking validity of VCD files
+Built target check_vcd
+Built target generate_T
+Built target dfts
